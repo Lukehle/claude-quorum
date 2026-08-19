@@ -1,0 +1,25 @@
+{
+  "name": "claude-quorum",
+  "version": "1.0.0",
+  "description": "A multi-agent verification harness for Claude Code: parallel evidence miners with per-subject lenses, an adversarial verify phase, a judge panel, and dissent-honoring synthesis. For answers that need to be defensible rather than plausible. Includes domain adapters, runnable Workflow scripts, and a tested deterministic library.",
+  "author": {
+    "name": "Luke Kehle",
+    "url": "https://github.com/Lukehle"
+  },
+  "homepage": "https://github.com/Lukehle/claude-quorum",
+  "repository": "https://github.com/Lukehle/claude-quorum",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "multi-agent",
+    "verification",
+    "adversarial-review",
+    "audit",
+    "code-review",
+    "post-mortem",
+    "decision-making",
+    "research",
+    "orchestration",
+    "subagents"
+  ]
+}

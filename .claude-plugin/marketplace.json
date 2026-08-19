@@ -1,0 +1,20 @@
+{
+  "name": "claude-quorum",
+  "owner": {
+    "name": "Luke Kehle",
+    "url": "https://github.com/Lukehle"
+  },
+  "metadata": {
+    "description": "Multi-agent verification harness: mine with per-subject lenses, verify adversarially, judge, synthesize with dissent honored.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-quorum",
+      "source": "./",
+      "description": "10 skills for adversarial multi-perspective analysis: the quorum orchestrator plus lens design, verification, judging, and degradation, with ready adapters for design, code, research, decision and incident work. Ships runnable Workflow scripts, a scaffolding CLI, and a tested deterministic library for dedup, tallying, ruling and requorum diffing.",
+      "version": "1.0.0",
+      "category": "workflow"
+    }
+  ]
+}
